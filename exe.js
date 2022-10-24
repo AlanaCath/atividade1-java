@@ -1,0 +1,5 @@
+window.alert("Olá, alunos SENAC")
+window.alert("Está é minha primeira mensagem")
+window.confirm("Está gostando do Javascript")
+window.prompt("Qual é seu nome?")
+document.write("Estou escrevendo no corpo")
